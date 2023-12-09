@@ -10,3 +10,5 @@ The project will be made using Python, Mojo, HTML, CSS, JavaScript, and Java.
 - Long-terrm project
 - Waterfall SDLC
 - Possible use of quantum technology
+
+Welcome to Project SPIRON: the Synergized Predictive Intelligence Resourcefully Operational Nexus.
